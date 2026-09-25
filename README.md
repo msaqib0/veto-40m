@@ -70,7 +70,6 @@ $$\mathcal{L}_{\text{grounding}} = \frac{1}{B} \sum_{i=1}^{B} \left( E(s_i, c_i^
 ```text
 .
 ├── veto-40m-decision.ipynb   # Full notebook with training, evaluation, and export steps
-├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
 └── veto-40m-local/           # Exported model directory
     ├── pytorch_model.bin     # Model weights
