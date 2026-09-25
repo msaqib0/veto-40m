@@ -1,0 +1,11 @@
+{
+    "model_type": "veto-decision-transformer",
+    "vocab_size": 16384,
+    "hidden_dim": 512,
+    "num_layers": 8,
+    "num_heads": 8,
+    "num_kv_heads": 2,
+    "intermediate_dim": 1376,
+    "max_seq_len": 256,
+    "rms_norm_eps": 1e-05
+}
